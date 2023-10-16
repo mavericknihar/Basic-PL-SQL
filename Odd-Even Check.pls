@@ -1,4 +1,4 @@
---program to check whether the entered number is positive or negative
+--program to check whether the entered number is odd or even
 declare
 a number := 23123;
 b number;
